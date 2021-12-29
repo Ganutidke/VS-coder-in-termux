@@ -18,6 +18,8 @@ link :- https://t.me/techknowledget
 After installing run following code step by step:
 
 apt update 
+
+
 apt upgrade
 
 
